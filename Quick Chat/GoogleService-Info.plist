@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>630829102345-edi3fr4jnod3ud4dbu88khfgh7vgrb4o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.630829102345-edi3fr4jnod3ud4dbu88khfgh7vgrb4o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDk3Hh9dcKeSsftCTIDBY7e6fPLIBnPtzU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>630829102345</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ayywhoa.Quick-Chat</string>
+	<key>PROJECT_ID</key>
+	<string>quick-chat-6cb8b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>quick-chat-6cb8b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:630829102345:ios:e775e351351612a9c5cfd8</string>
+</dict>
+</plist>
